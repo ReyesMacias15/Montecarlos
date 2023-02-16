@@ -23,6 +23,6 @@ sip==6.0.3
 six==1.15.0
 tk==0.1.0
 toml==0.10.2
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 xlrd==2.0.1
 lxml==4.6.3
